@@ -1,7 +1,7 @@
 # HR-LITA-Project
 This is where I documented my project done based on my recently acquired knowledge on Data analysis with the Incubator Hub 
 
-# PROJECT TITLE; Sales Performance Analysis For a Retail Store
+# PROJECT TITLE; EMPLOYEE RECORDS AND BEHAVIOURAL PERFORMANCE
 ---
 - [Project Overview](#project-overview)
 - [Data Collected](#data-collected)
@@ -14,8 +14,8 @@ This is where I documented my project done based on my recently acquired knowled
 
 ## PROJECT OVERVIEW
 ----
-This project collects and analyses sales performance Data from various regions.
-The goal is to provide insights into sales of product over different region. The analysis focuses on understanding sales performance across regions and calculating key metrics such as average sales per product and total revenue by region. 
+This project collects and analyse Employee's records/behavioural performance Data from various regions.
+The goal is to generate insight into the behavioural performance of employees over the past year by analysing the various parameters in the data received, we seek to gather enough insight to make reasonable decission. 
 
 
 ## DATA COLLECTED
