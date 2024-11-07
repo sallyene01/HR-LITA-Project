@@ -21,13 +21,13 @@ The goal is to generate insight into the behavioural performance of employees ov
 ## DATA COLLECTED
 ---
 The Data collected includes the following key columns;
-- Region; The geographical location of each store
-- Product; Items sold
-- Order date; the day of the week for each transaction
-- Quantity; The number of units sold for each transaction
-- Unit Price; The amount for each product
-- Revenue; The total monetary value generated from sale.
-- Customer Name; Names of customers that patronzse the store
+- States; The geographical location of each store.
+- Attrition; Current and ex employees.
+- Age; Age of Employees. 
+- Educational Field; Field of study of Employees.
+- Job Role; Role of Employees.
+- Gender; The Gender of Employees.
+- Marital Status; Marital Status of Employees.
   
 
   ## PROJECT OBJECTIVES
