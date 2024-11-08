@@ -28,20 +28,41 @@ The Data collected includes the following key columns;
 - Job Role; Role of Employees.
 - Gender; The Gender of Employees.
 - Marital Status; Marital Status of Employees.
+- Department; The department of employees.
+- Performance Rate; The Rating of Employees' performance.
+- Job satisfaction; The level of satisfaction of each employee.
+- Hourly Rate;
+- Daily Rate;
+- Momthly Rate;
+- Monthly Income;
+  
   
 
   ## PROJECT OBJECTIVES
   ---
   This project was designed to tackle the following analysis goal
-  1. Sales per Product; To ascertain the total sales per product and the highest selling product
-  2. Sales by Region; To determine the total sales by region
-  3. Sales by Month; To work out overall sales for each month
-  4. Average Revenue by Region; To calculate the avreage revenue per sales in each region.
-  5. Transaction by Region; To figure out the number of units sold across different regions to be able to identify the most active location.
-  6. Total Rvenue per product: To determine the product with the highest revenue
-  7. Total Purchase Amount By Customer; To find the top 5 customers by the total purchase amount
-  8. Percentage of Total Sales by Region; To calculate the percentage of total sales contributed by each region.
-  9. Product By Order date; To identify products with no sales in the last quarter.
+  1. State; The geograhpical location by longitude and latitude.
+  2. Attrition; Attrition Count by
+     1. Age band
+     2. Job role
+     3. Educational field
+     4. Gender
+     5. Marital Status
+     6. Department
+  3. Performance Rate; Performance Rate by
+     1. Job Role
+     2. Marital Status
+     3. Gender
+     4. Educational field 
+  4. Job Satisfaction; Job Satisfaction by
+      1. Educational Field
+      2. Job Role
+      3. Gender
+      4. Marital Status 
+  5. Monthly Income; Total monthly income
+  6. Monthly Rate; Average Monthly rate
+  7. Daily Rate; Percentage of Daily Rate
+  8. Hourly Rate;
      
  
      ## KEY METRICS
