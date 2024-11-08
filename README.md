@@ -6,7 +6,6 @@ This is where I documented my project done based on my recently acquired knowled
 - [Project Overview](#project-overview)
 - [Data Collected](#data-collected)
 - [Project Objectives](#project-objectives)
-- [KEY metrics](#key-metrics)
 - [Tools Used](#tools-used)
 - [Data cleaning and Preparation](##data-cleaning-and-preparetion)
 - [Exploratory Data Analysis](##exporatory-data-analysis)
@@ -62,18 +61,7 @@ The Data collected includes the following key columns;
   5. Monthly Income; Total monthly income
   6. Monthly Rate; Average Monthly rate
   7. Daily Rate; Percentage of Daily Rate
-  8. Hourly Rate;
-     
- 
-     ## KEY METRICS
-     ---
-     - Total sales; Sum of total sales categorized by
-       1. Product
-       2. Region
-       3. Month
-     - Units Sold; Sum of units sold grouped by region
-     - Average Revenue; Total revenue for each region to evaluate revenue consistency.
-     - Total Purchase by Customer; To check the top 5 customer.  
+  8. Hourly Rate; 
     
 
      ## TOOLS USED
