@@ -88,3 +88,41 @@ The Data collected includes the following key columns;
 
             ## VISUAL ANALYSIS AND INFERENCE
             ---
+![MAP](https://github.com/user-attachments/assets/4e18a9b9-1e89-427e-a18a-8dd6c474c93b)
+
+
+
+
+
+![HR VISUALS](https://github.com/user-attachments/assets/3ee08672-d4b3-4e7f-bd25-663b1c38ba78)
+
+
+
+
+
+
+
+
+![HR VISUAL 5](https://github.com/user-attachments/assets/e9ff2308-586d-4387-afdc-d60914572e64)
+
+
+
+
+
+
+
+![HR VISUALS 3](https://github.com/user-attachments/assets/c415a880-70ce-4b36-8006-24fdb384399b)
+
+
+
+
+
+
+
+![HR VISUAL 4](https://github.com/user-attachments/assets/4c39dea4-4d6b-4ebb-9d98-aea0da40f175)
+
+
+
+
+
+
